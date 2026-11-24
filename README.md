@@ -1,10 +1,16 @@
-# De Buurtwinkel — auto-loading Streamlit dashboard
+# De Buurtwinkel — Retail Sales Analysis
 
 [![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://debuurtwinkel-dashboard-hgw7fezcxthesh6nybuqhm.streamlit.app/)
 
 [Open the interactive retail dashboard](https://debuurtwinkel-dashboard-hgw7fezcxthesh6nybuqhm.streamlit.app/)
 
-This is a **Streamlit recreation** of `DeBuurtwinkel.pbit`, **not** a Power BI renderer. Once you add the original CSV files, everyone opening your deployed Streamlit URL will immediately see the interactive dashboard, with no upload step and no Power BI login.
+## Scenario
+
+You are a junior data analyst at "De Buurtwinkel," a fictional chain of small convenience stores. The management team wants to understand its sales performance from the last financial year. They have provided you with three separate data files and need you to build a one-page summary dashboard to answer key questions.
+
+## Objective
+
+Your task is to use Power BI to connect to the provided data, clean and model it, and create a single-page interactive dashboard that summarises sales performance.
 
 ## 1. Add your data (essential)
 
