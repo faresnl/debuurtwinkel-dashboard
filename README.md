@@ -1,5 +1,9 @@
 # De Buurtwinkel — auto-loading Streamlit dashboard
 
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://debuurtwinkel-dashboard-hgw7fezcxthesh6nybuqhm.streamlit.app/)
+
+[Open the interactive retail dashboard](https://debuurtwinkel-dashboard-hgw7fezcxthesh6nybuqhm.streamlit.app/)
+
 This is a **Streamlit recreation** of `DeBuurtwinkel.pbit`, **not** a Power BI renderer. Once you add the original CSV files, everyone opening your deployed Streamlit URL will immediately see the interactive dashboard, with no upload step and no Power BI login.
 
 ## 1. Add your data (essential)
